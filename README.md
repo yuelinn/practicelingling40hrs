@@ -12,7 +12,7 @@ C++ programming practices because I am feeling dumb.
 ### Easy:
 https://www.w3resource.com/c-programming-exercises/practice/index.php
 
-
+```
     __         __
    |  |_______|  |
  ,'  __      __   `.
@@ -21,3 +21,4 @@ https://www.w3resource.com/c-programming-exercises/practice/index.php
  \    ^________^   /
  /                 \
  
+```
